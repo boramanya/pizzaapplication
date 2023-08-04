@@ -1,0 +1,13 @@
+.logo{
+    height: 50px;
+}
+.logo img{
+    height: 100%;
+}
+
+.card {
+    min-height: 200px;
+}
+.card {
+    height: 100%;
+}
